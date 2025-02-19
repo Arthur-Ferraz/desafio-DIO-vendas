@@ -1,0 +1,11 @@
+SKU;product_sold;date;quantity;unit_price;total_price;currency;site;discount_coupon;discount_value;buyer_birth_date;buyer_name;delivery_country;invoice_id
+SKU-40XXV01;T-Shirt;2025-02-18;2;49.9;99.8;BRL;TrendWear;SUMMER20;19.96;1995-07-12;Lucas Silva;Brasil;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-001
+SKU-40XXV02;Jeans;2025-02-17;1;24.9;24.9;EUR;TrendWear;NONE;0.0;1988-03-25;Amanda Costa;Portugal;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-002
+SKU-40XXV03;Jacket;2025-02-16;1;259.9;207.92;EUR;TrendWear;WINTER15;51.98;1992-11-05;João Pereira;Espanha;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-003
+SKU-40XXV04;Dress;2025-02-15;3;79.9;239.7;BRL;TrendWear;PROMO30;71.91;2000-06-21;Beatriz Santos;Brasil;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-004
+SKU-40XXV05;Shorts;2025-02-14;2;18.9;37.8;EUR;TrendWear;NONE;0.0;1999-09-10;Rafael Lima;Itália;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-005
+SKU-40XXV06;Hoodie;2025-02-13;1;159.9;127.92;EUR;TrendWear;WINTER15;31.98;1996-04-02;Mariana Rocha;França;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-006
+SKU-40XXV07;Sneakers;2025-02-12;1;350.9;280.72;EUR;TrendWear;SPORT20;70.18;1991-12-30;Gustavo Nunes;Alemanha;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-007
+SKU-40XXV08;Blouse;2025-02-11;2;62.9;125.8;EUR;TrendWear;SUMMER10;12.58;1994-05-18;Fernanda Alves;Espanha;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-008
+SKU-40XXV09;Cap;2025-02-10;1;35.9;32.31;EUR;TrendWear;PROMO10;3.59;2002-08-07;Ricardo Souza;Portugal;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-009
+SKU-40XXV10;Socks;2025-02-09;3;15.9;47.7;EUR;TrendWear;NONE;0.0;1997-01-15;Vanessa Melo;França;3f6f38bf-cbd5-4e1d-91a5-2ef1bfe51b0f-010
